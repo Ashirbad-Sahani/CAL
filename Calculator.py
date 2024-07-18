@@ -9,7 +9,6 @@
 # Licence:     <your licence>
 #-------------------------------------------------------------------------------
 
-"""
 
 @Author: Ashirbad Sahani
 Institute: ITER, SOA
