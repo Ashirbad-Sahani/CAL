@@ -15,7 +15,7 @@ Python 3.x
 Tkinter (usually included with Python installations)
 Installation
 Clone the repository:
-git clone https://github.com/yourusername/python-calculator.git
+git clone https://github.com/Ashirbad_sahani/python-calculator.git
 Navigate to the project directory:
 cd python-calculator
 Run the script:
