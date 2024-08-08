@@ -12,7 +12,7 @@ Clear Function: Resets all input fields for new calculations.
 Author Information: Displays the author details with a single click.
 Requirements
 Python 3.x
-Tkinter (usually included with Python installations)
+Tkinter (usually included with Python installations)-----
 Installation
 Clone the repository:
 git clone https://github.com/Ashirbad_sahani/python-calculator.git
