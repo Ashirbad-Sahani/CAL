@@ -1,6 +1,4 @@
-------
-
-
+-----
 # Name:        module2
 # Purpose:
 #
