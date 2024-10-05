@@ -1,12 +1,10 @@
-
-
-------------------------------------------------------------------
+------------------------------------------------------------------=
 # Purpose:
 # Author:      Ashirbad Sahani
 # Created:     09-07-2024
 # Copyright:   (c) Ashirbad Sahani 2024
 # Licence:     <your licence>
-------------------
+------------------------------------------------------------------
 @Author: Ashirbad Sahani
 Institute: ITER, SOA
 Language: Python
