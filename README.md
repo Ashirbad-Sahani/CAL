@@ -3,7 +3,7 @@ Python Calculator This is a simple GUI-based calculator application created usin
 
 Python Calculator
 This project is a simple GUI-based calculator application created using Python's Tkinter library. The calculator supports basic arithmetic operations such as addition, subtraction, multiplication, and division.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 User-Friendly Interface: Clean and intuitive interface with buttons for numbers and basic arithmetic operations.
 Basic Arithmetic Operations: Supports addition (+), subtraction (-), multiplication (*), and division (/).
 Input Validation: Ensures valid numeric input before performing calculations.
