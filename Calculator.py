@@ -1,4 +1,3 @@
-sqdxcs 11111
 
 # Author:      Ashirbad Sahani
 # Created:     09-07-2024
